@@ -10,6 +10,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\dzura\Desktop\Web_Developer_Course\smart-brain-api\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZP4S2MOF4VKnuzBiOuGtbTaQGF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,6 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
@@ -37,7 +45,7 @@
       <workItem from="1584727396382" duration="7381000" />
       <workItem from="1584779008483" duration="10710000" />
       <workItem from="1584960744850" duration="638000" />
-      <workItem from="1585132577490" duration="9776000" />
+      <workItem from="1585132577490" duration="9905000" />
     </task>
     <servers />
   </component>
